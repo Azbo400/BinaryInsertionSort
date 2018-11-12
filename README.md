@@ -7,7 +7,7 @@ Binary Insertion Sort uses binary search to find the proper location to insert t
 We can use binary search to reduce the number of comparisons in normal insertion sort to make it much faster. 
 
 **Insertion Sort:** <br/> 
-![Insertion Sort](https://raw.githubusercontent.com/Azbo400/BinaryInsertionSort/branch/path/to/insertionsort.gif)
+![Insertion Sort](https://raw.githubusercontent.com/Azbo400/BinaryInsertionSort/master/insertionsort.gif)
 
 **Binary Search:** 
 Binary Search in action <br/>
